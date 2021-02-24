@@ -5,3 +5,4 @@ Fabio
 teste de fork
 teste para saber se o fork funcionou direitinho
 teste 2
+teste de linha 4
