@@ -6,3 +6,5 @@ teste de fork
 teste para saber se o fork funcionou direitinho
 teste 2
 jefte teste novo
+teste de linha 4
+
